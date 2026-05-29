@@ -1,0 +1,23 @@
+# Build output
+target/
+backend/target/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Local/tooling artifacts
+.github/modernize/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
