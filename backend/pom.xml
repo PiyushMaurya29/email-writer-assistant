@@ -12,10 +12,6 @@
 		<relativePath/>
 	</parent>
 
-
-
-
-
 	<groupId>com.email</groupId>
 	<artifactId>email-writer</artifactId>
 	<version>1.0.0</version>
