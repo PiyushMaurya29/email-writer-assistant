@@ -13,6 +13,7 @@ AI-powered Gmail reply assistant built with a Spring Boot backend and a Chrome E
 
 ## Tech Stack
 
+
 - Java 17
 - Spring Boot 3
 - Spring WebFlux
