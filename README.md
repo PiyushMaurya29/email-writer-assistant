@@ -19,7 +19,6 @@ AI-powered Gmail reply assistant built with a Spring Boot backend and a Chrome E
 - Maven
 - Chrome Extension Manifest V3
 - Groq API
-
 - Optional Google Gemini API
 
 ## Project Structure
