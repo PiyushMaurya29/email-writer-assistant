@@ -23,6 +23,7 @@ AI-powered Gmail reply assistant built with a Spring Boot backend and a Chrome E
 
 ## Project Structure
 
+
 ```text
 email-writer-assistant/
   backend/      Spring Boot API
